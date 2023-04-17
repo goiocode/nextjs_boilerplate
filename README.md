@@ -11,3 +11,5 @@
 - Lint staged
 - Next SEO
 - Next PWA
+- Dependabot
+- Github Actions
