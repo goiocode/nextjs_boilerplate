@@ -18,10 +18,6 @@
 ## How to use
 
 1. open your terminal
-2. run `git clone https://github.com/goiocode/nextjs_boilerplate.git`
-3. open the folder in explorer
-4. remove .git folder
-5. change the folder name to the name of your project
-6. open the folder in terminal
-7. run `npm i`
-8. remember to change the name property in package.json, properties in manifest.json, seo in \_document, and others.
+2. access the folder that you save your projects to a better organization
+3. run this command: `npx create-next-app -e https://github.com/goiocode/nextjs_boilerplate`
+4. you will be asked for the name of the project and that's it!
