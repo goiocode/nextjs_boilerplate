@@ -7,7 +7,7 @@ export default function Home() {
         title="Next.js Boilerplate"
         description="This is a next.js project boilerplate"
       />
-      <h1 className="text-lg text-purple-800">Hello world</h1>
+      <h1 className="text-lg text-purple-800 font-roboto">Hello world</h1>
     </>
   )
 }

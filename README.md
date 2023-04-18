@@ -13,3 +13,4 @@
 - Next PWA
 - Dependabot
 - Github Actions
+- Google fonts (Roboto)
